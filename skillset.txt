@@ -1,0 +1,130 @@
+Hadoop Ecosystem
+Hive
+HBase
+Pig
+Cassandra
+Data Lakes
+Distributed Computing
+Cloud Platforms
+AWS
+Azure
+Google Cloud
+Stream Processing
+Apache Kafka
+Kafka
+Scalability and Performance Tuning
+Real-time Data Processing
+Machine Learning
+Computer Vision
+AI Model Deployment
+Generative Adversarial Networks
+Transfer Learning
+Database Design
+Database Management Systems
+Data Warehousing Architecture
+ETL Architecture
+Cloud Data Solutions
+AWS Redshift
+Google BigQuery
+Data Security
+Master Data Management (MDM)
+OLAP
+Analytical
+Processing
+BI Tools
+Qlik
+Dashboard Design
+Data Governance
+Requirements Gathering
+Business Process Modeling
+Data Visualization Tools
+Tableau
+Power BI
+Communication and Presentation Skills
+Stakeholder Management
+Problem-Solving
+Statistical Analysis
+Machine Learning Algorithms
+Predictive Modeling
+Data Visualization
+Matplotlib
+Seaborn
+A/B Testing
+Experimentation Design
+R
+Data Analysis
+Data Storytelling
+Text Mining
+Tokenization
+Named Entity Recognition
+NER
+Sentiment Analysis
+Language Modeling
+Word Embeddings
+Word2Vec
+GloVe
+Natural Language Toolkit
+NLTK
+SpaCy
+BERT
+GPT
+Coreference Resolution
+Machine Translation
+Image Processing
+Object Detection
+Image Recognition
+Convolutional Neural Networks
+CNN
+OpenCV
+Deep Learning for Computer Vision
+3D Computer Vision
+Image Segmentation
+Supervised and Unsupervised Learning
+Feature Engineering
+Model Training and Evaluation
+Deep Learning
+Neural Networks
+TensorFlow
+PyTorch
+Scikit-Learn
+Model Deployment
+Model Optimization
+Natural Language Processing
+NLP
+Reinforcement Learning
+Time Series Analysis
+ETL
+Extract
+Transform
+Load
+SQL
+NoSQL Databases
+MySQL
+PostgreSQL
+MongoDB
+Data Warehousing
+Data Modeling
+Data Integration
+Data Pipeline Development
+Pipeline Development
+Apache Hadoop
+Hadoop
+Apache Spark
+Spark
+Talend
+Apache Airflow
+AWS Glue
+Python
+Java
+Scala
+Logistic Regression
+XGBoost
+Catboost
+Clustering
+Statistics
+Informatics
+Pandas
+Airflow
+ML Engine
+Postgres
+AWS
